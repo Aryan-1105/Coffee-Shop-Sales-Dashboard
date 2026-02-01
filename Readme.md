@@ -7,6 +7,9 @@ An interactive Excel dashboard that analyzes coffee shop sales data to uncover t
 
 
 ![image.alt](https://github.com/Aryan-1105/Coffee-Shop-Sales-Dashboard/blob/7af4bffa6d3499da3c7fec4bb70056854d66ad72/Image/Coffee_Shope_DashBoard.png)
+
+
+---
 ## Overview
 This project focuses on analyzing coffee shop sales data using Microsoft Excel and presenting insights through an interactive dashboard.  
 The dashboard visualizes key metrics such as total sales, customer footfall, hourly sales trends, product performance, category distribution, and store-wise comparisons.  

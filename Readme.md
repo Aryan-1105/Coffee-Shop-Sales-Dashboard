@@ -107,4 +107,5 @@ B.Tech Mechanical Engineering
 Aspiring Data Analyst  
 
 GitHub: https://github.com/Aryan-1105
+
 LinkedIn: https://www.linkedin.com/in/aryan-kumar-sahoo/ 
